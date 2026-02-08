@@ -101,7 +101,7 @@ expérimenter et apprendre **sans crainte de domination**.
 ## État actuel du projet
 
 Auryndel est **expérimental et en phase initiale**.
-Le projet est pour l’instant porté par une seule personne.
+Le projet est un projet perso.
 Les outils, rôles et règles sont testés et ajustés en continu.
 
 Les risques connus incluent complexité, lenteur et abandon possible.
