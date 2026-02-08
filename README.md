@@ -100,7 +100,7 @@ expérimenter et apprendre **sans crainte de domination**.
 
 ## État actuel du projet
 
-Auryndel est **expérimental et en phase initiale**.
+Auryndel est **expérimental et en phase initiale**. Le développement est d'environ 70% backend implémenté et testé, 20% pour le frontend.
 Le projet est un projet perso.
 Les outils, rôles et règles sont testés et ajustés en continu.
 
