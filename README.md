@@ -1,6 +1,6 @@
 # Auryndel-doc
 Coopération symbolique et gouvernance expérimentale visant à structurer l’engagement humain sans domination, par des mécanismes symboliques, traçables et réversibles.
-Le code source est privé. Pour demander un accès, merci de nous contacter sur https://forms.gle/69favWz8TL3VcLMFA
+Le code source est privé. Pour demander un accès, ou pour tout contact privé, merci de nous contacter sur https://forms.gle/69favWz8TL3VcLMFA
 ---
 
 ## Pourquoi ce projet existe
