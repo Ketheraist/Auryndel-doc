@@ -738,8 +738,6 @@ Modifiable via admin panel :
 | **Résumé votable** | Texte court (≤280 chars) affiché sur bulletin vote |
 | **Vigie** | Rôle Ancre-Conseil, valide conformité votes avant ouverture |
 | **Virtus** | Valide conformité des remontées d'abuse, des mofications structurelles en conformité avec la charte avant ouverture vote |
-| **Vote interne** | Vote limité aux membres Vigie/Virtus (validation proposition, départage) |
-
 ---
 
 **Version** : 1.0 (Février 2026)  
