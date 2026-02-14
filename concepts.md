@@ -49,19 +49,7 @@ Les rôles sont fixes par branche, pas de rotation automatique.
 
 Historique des itérations : Le Fil → Le Métier, L’Étincelle → Le Souffle, L’Élan → La Flèche.
 
-4. Veilleurs
-
-Mentors inter-guildes, distincts des mentors intra-guildes.
-
-Accompagnent les membres dans leur relation correcteur/corrigé.
-
-Symboles remis lorsqu’ils prennent une nouvelle mission, facultatif si absence au rituel.
-
-Facilitateurs de cohésion, surveillance symbolique et médiation.
-
-Sont présents aux rituels pour présenter les nouveaux mentors et rappeler les missions et valeurs.
-
-5. Monnaie symbolique — Sparks
+4. Monnaie symbolique — Sparks
 
 Nom : Spark.
 
@@ -82,7 +70,7 @@ Rituel / fête	10 (+10 à +30 rôle central)
 Mentorat / correction	10 à 30
 Initiative personnelle	20 à 50
 Contribution symbolique	10
-6. Conditions de réussite
+5. Conditions de réussite
 
 Équilibre du graphe social inter-guildes et branches.
 
@@ -94,7 +82,7 @@ Rituels et symboles visibles pour renforcer cohésion et reconnaissance.
 
 Simplicité et lisibilité pour encourager participation.
 
-7. Risques principaux
+6. Risques principaux
 
 Déséquilibre de participation → concentration de pouvoir.
 
@@ -129,102 +117,3 @@ La branche qui la corrige (complémentaire).
 Les rituels permettent de visualiser et renforcer ces interactions.
 
 Chaque branche participe à 3 fêtes par an : sa propre fête et celles de ses deux branches liées.
-
-Les Veilleurs peuvent intervenir pour harmoniser ces flux et présenter les nouveaux correcteurs/corrigés.
-
-2. Structure philosophique et organisationnelle
-Guildes et branches
-Guilde	Branche	Mission principale	Valeurs principales
-L’Étoile – Éducation et Savoirs	La Lueur	Éveiller la soif de savoir, observation et découverte	curiosité, exploration, ouverture
-	Le Codex	Structurer et préserver le savoir, gérer archives et documentation	conservation, organisation, mémoire
-	Le Souffle	Expérimenter, formuler hypothèses, créer dans domaines scientifique et artistique	innovation, expérimentation, imagination
-L’Ancre – Justice et Médiation	La Balance	Mesure et équité dans les décisions	équité, impartialité
-	L’Égide	Protection et soutien	protection, responsabilité
-	Le Conseil	Arbitrage et transparence	transparence, conseil
-La Tresse – Solidarité et Services Essentiels	Le Métier (anciennement Le Fil)	Continuité et transmission progressive, apprentissage quotidien	persévérance, suivi, application pratique
-	Le Hâvre	Soutien et consolidation, sécurité dans l’apprentissage	protection, accompagnement, renforcement
-	La Flèche	Initiative et réalisation de projets concrets	créativité, initiative, réalisation
-L’Atelier – Contribution et Transmission	La Main	Action concrète, réalisation pratique	efficacité, précision, application, pragmatisme
-	La Tête	Réflexion et planification appliquée	analyse, stratégie, anticipation, compréhension
-	Le Cœur	Motivation, engagement et cohésion	empathie, solidarité, persévérance, inspiration
-Le Pont – Économie et Commerce	L’Échoppe	Échanges, commerce, régulation	commerce, échange, régulation
-	La Ruche	Collaboration, responsabilité économique, équité	collaboration, responsabilité, équité
-	La Boussole	Orientation, stratégie, vision économique	stratégie, vision, orientation
-3. Contre-valeurs et équilibre
-
-Chaque branche a des membres correcteurs et corrigés pour maintenir l’équilibre.
-
-Le graphe global du pays doit équilibrer les valeurs et contre-valeurs.
-
-Rituels/fêtes : organisateur + correcteur + corrigé → permet vision croisée et cohésion.
-
-Les rôles sont fixes par branche, pas de rotation automatique.
-
-L'appartenance à une branche peut être temporaire (limite du nombre de changements)
-
-4. Veilleurs
-
-Mentors inter-guildes, distincts des mentors intra-guildes.
-
-Accompagnent les membres dans leur relation correcteur/corrigé.
-
-Médaillons ou symboles remis lorsqu’ils prennent une nouvelle mission, facultatif si absence au rituel.
-
-Facilitent cohésion, surveillance symbolique et médiation.
-
-5. Monnaie symbolique — Sparks
-
-Nom : Spark.
-
-Rôle : représente engagement, temps et énergie investis, mais limité pour usage pratique et privilèges.
-
-Génération : à la volée par missions, rituels, mentorat, initiatives, contributions symboliques.
-
-Granularité x10 : permet taxes, redistribution et ajustements.
-
-Plafond individuel : limite d’usage → atteint = statut Icare (prestige symbolique).
-
-Redistribution des excédents : fonds commun ou projets collectifs, équilibre des guildes.
-
-Privilèges Sparks : accès ressources, influence, mentorat, rituels, reconnaissance sociale.
-
-Sources et valeurs des Sparks (x10)
-Type d’action	Sparks générés
-Mission de guilde	10 à 50
-Rituel / fête	10 (+10 à +30 rôle central)
-Mentorat / correction	10 à 30
-Initiative personnelle	20 à 50
-Contribution symbolique	10
-6. Conditions de réussite
-
-Équilibre du graphe social inter-guildes et branches.
-
-Attractivité et engagement des membres pour toutes les branches.
-
-Plafond Sparks et redistribution efficaces pour réguler concentration et influence.
-
-Rituels et symboles visibles pour renforcer cohésion et reconnaissance.
-
-Simplicité et lisibilité de l’expérience pour encourager la participation.
-
-7. Risques principaux
-
-Déséquilibre de participation → concentration de pouvoir.
-
-Accumulation excessive des Sparks → influence disproportionnée.
-
-Engagement faible → effritement social.
-
-Conflits internes non régulés ou influence excessive.
-
-Complexité trop élevée → confusion et démotivation.
-
-Mécanismes d’atténuation :
-
-Encouragement des branches moins populaires via missions, rituels, mentorat.
-
-Veilleurs pour médiation et suivi symbolique.
-
-Feedback visible et reconnaissance (badges, Icare).
-
-Introduction graduelle des règles avancées après validation du test.
