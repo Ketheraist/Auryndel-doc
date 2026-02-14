@@ -102,7 +102,7 @@
   - Signalement contenus problématiques
   - Intervention situations urgentes (crises)
 
-**Rôle 2 : Veilleur**
+**Rôle 2 : Veilleur** nom a changer pour différencier du role inter branche lié aux Fêtes et contrevaleurs.  
 - **Métiers IRL** : secouriste, éducateur de rue, agent prévention
 - **Contributions Auryndel** :
   - Surveillance bien-être communauté
