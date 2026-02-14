@@ -398,20 +398,6 @@
 
 ---
 
-## NOTES IMPORTANTES
-
-### Métiers "Architecte"
-**Décision** : Intégré dans **Stratège** (Atelier - La Tête)
-- Raison : Architecture = planification systèmes complexes
-- Pas de rôle transversal dédié
-
-### Équilibrage
-- Toutes les branches ont exactement 2 rôles (équité)
-- 11 rôles transversaux identifiés (réutilisation intelligente)
-- 4 rôles transversaux purs accessibles sans guilde
-
-### Extensibilité
-- Architecture permet ajout 3e rôle par branche ultérieurement
 - Métiers IRL inspirants = liste ouverte (évolutive)
 - Contributions peuvent être enrichies selon besoins communauté
 
