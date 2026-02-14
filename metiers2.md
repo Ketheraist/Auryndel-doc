@@ -337,7 +337,7 @@
 
 ---
 
-### 3. Veilleur 🔄
+### 3. Veilleur / a renommer 🔄
 **Déjà présent** : Ancre - L'Égide
 **Accessible sans guilde** : Oui (≥1 shard, pour modération globale)
 
@@ -362,7 +362,7 @@
 | Étoile | Le Codex | Archiviste, Analyste 🔄 | 2 |
 | Étoile | Le Souffle | Créateur, Expérimentateur 🔄 | 2 |
 | Ancre | La Balance | Arbitre 🔄, Auditeur | 2 |
-| Ancre | L'Égide | Gardien 🔄, Veilleur 🔄 | 2 |
+| Ancre | L'Égide | Gardien 🔄, Veilleur/ a renommer 🔄 | 2 |
 | Ancre | Le Conseil | Conseiller, Médiateur 🔄 | 2 |
 | Tresse | Le Métier | Formateur 🔄, Mainteneur | 2 |
 | Tresse | Le Hâvre | Accompagnant, Thérapeute social | 2 |
@@ -389,7 +389,7 @@
 | **Expérimentateur** | Souffle, Tête (Stratège) | Souffle = innovation créative / Tête = design systèmes |
 | **Arbitre** | Balance, Conseil (Médiateur) | Balance = trancher / Conseil = faciliter consensus |
 | **Gardien** | Égide, Hâvre (Accompagnant) | Égide = protection préventive / Hâvre = soutien curatif |
-| **Veilleur** | Égide, transversal | Égide = vigilance communauté / Transversal = modération globale |
+| **Veilleur/ a renommer** | Égide, transversal | Égide = vigilance communauté / Transversal = modération globale |
 | **Formateur** | Métier, Lueur (Éveilleur) | Métier = apprentissage technique / Lueur = éveil découverte |
 | **Médiateur** | Conseil, Cœur (humain) | Conseil = conflits formels / Cœur = tensions interpersonnelles |
 | **Stratège** | Tête, Boussole (Visionnaire) | Tête = planification projets / Boussole = vision long terme |
@@ -411,3 +411,5 @@
 3. Métiers IRL inspirants représentatifs ?
 4. Rôles transversaux bien identifiés ?
 5. Manques/ajouts nécessaires ?
+
+Fevrier 2026
