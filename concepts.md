@@ -104,7 +104,7 @@ Feedback visible et reconnaissance (badges, Icare).
 
 Introduction graduelle des règles avancées après validation du test.
 
-8. Graphes et flux de contre-valeurs
+7. Graphes et flux de contre-valeurs
 
 Le graphe représente les liens d’équilibre entre valeurs et contre-valeurs.
 
@@ -117,3 +117,4 @@ La branche qui la corrige (complémentaire).
 Les rituels permettent de visualiser et renforcer ces interactions.
 
 Chaque branche participe à 3 fêtes par an : sa propre fête et celles de ses deux branches liées.
+
