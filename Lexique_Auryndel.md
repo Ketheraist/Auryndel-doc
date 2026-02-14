@@ -341,10 +341,6 @@ Classe erreur personnalisée backend. Propriétés : code (identifiant), message
 
 **MVP** : Minimum Viable Product - Version initiale fonctionnelle plateforme
 
-**TTL** : Time To Live - Durée validité cache
-
-**JSONB** : JSON Binary - Type données PostgreSQL
-
 **QCM** : Questionnaire à Choix Multiples - Type step test
 
 **SPOF** : Single Point Of Failure - Point unique défaillance
@@ -371,6 +367,6 @@ Classe erreur personnalisée backend. Propriétés : code (identifiant), message
 
 ---
 
-**VERSION** : 1.0  
-**DERNIÈRE MAJ** : Janvier 2026  
+**DERNIÈRE MAJ** : Février 2026  
+
 **MAINTENANCE** : Adapter selon évolution projet + feedback utilisateurs
