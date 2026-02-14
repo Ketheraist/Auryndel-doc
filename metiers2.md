@@ -2,7 +2,7 @@
 
 ## MÉTHODOLOGIE
 - 2-3 rôles contributifs par branche (30-45 rôles totaux)
-- Chaque rôle regroupe plusieurs métiers IRL inspirants
+- Chaque rôle regroupe plusieurs métiers IRL inspirants mais le rôle Auryndel n'a pas besoin d'être lié à quoique ce soit d'IRL 
 - Contributions = actions concrètes sur plateforme Auryndel
 - Rôles transversaux signalés avec 🔄
 - Ces rôles sont une base de travail et pourront être amenés à évoluer (cf systeme de votes)
